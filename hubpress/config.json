@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "nickcarey",
-    "repositoryName": "nickcarey.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"nickcarey","repositoryName":"nickcarey.github.io","branch":"master"},"site":{"title":"Nick Carey","description":"Information by Nick Carye","url":"https://nickcarey.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//nickcarey.github.io/themes/Casper"}}
